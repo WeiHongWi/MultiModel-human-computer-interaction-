@@ -11,4 +11,7 @@ Human interacted with environment with multimodals that processes their senses.F
 
 <div align=center><img src="https://github.com/WeiHongWi/MultiModel-human-computer-interaction-/blob/main/Speech%20Machine%20Chain.png" width="400px" height="300px" />
   
-Furthermore,
+<div align=left>
+Furthermore,they thought the visual system will help the TTS and ASR to perform better.So,the number of chain became 3.just like the figure below:
+
+<div align=center><img src=
