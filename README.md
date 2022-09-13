@@ -14,4 +14,8 @@ Human interacted with environment with multimodals that processes their senses.F
 <div align=left>
 Furthermore,they thought the visual system will help the TTS and ASR to perform better.So,the number of chain became 3.just like the figure below:
 
-<div align=center><img src=
+<div align=center><img src="https://github.com/WeiHongWi/MultiModel-human-computer-interaction-/blob/main/Multimodal%20and%20single%20loop%20Multimodal.png" width = "500px" height ="250px">
+
+  
+  
+So,in this project, I will intend to create the single loop multimodal and the simple implementation detail in ASR、TTS、IR、IC model.
